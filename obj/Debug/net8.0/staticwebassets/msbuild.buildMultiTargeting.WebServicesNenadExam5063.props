@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebServicesNenadExam5063.props" />
+</Project>
